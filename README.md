@@ -1,4 +1,4 @@
-## Emekcan Doğru
+## Emek Can Doğru
 
 Founder at **[VERAX](https://verax-ai.com)** (İzmir, Türkiye). I work on the boundary
 between AI systems and real company data — specifically, on making what happens at that
